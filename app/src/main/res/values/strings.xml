@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Scorekeeper</string>
+    <string name="home_shortcut">Home</string>
+    <string name="run_shortcut">run</string>
+    <string name="inning_shortcut">inning</string>
+    <string name="away_shortcut">Away</string>
+    <string name="outs_shortcut">outs</string>
+    <string name="balls_shortcut">balls</string>
+    <string name="strikes_shortcut">strikes</string>
+    <string name="reset_all_shortcut">reset All</string>
+    <string name="ball_hit_shortcut">ball Hit</string>
+    <string name="_0">0</string>
+</resources>
